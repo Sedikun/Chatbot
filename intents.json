@@ -42,7 +42,14 @@
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks.", "Thank you.", "That's helpful.", "Thank's a lot!", "Thasnk you.", "Good Job!"],
+      "patterns": ["Thanks.", 
+      "Thank you.", 
+      "That's helpful.", 
+      "Thank's a lot!", 
+      "Thasnk you.", 
+      "Good Job!", 
+      "I appreciate your help"
+    ],
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
@@ -246,7 +253,7 @@
         "Can you assist in refreshing the look of my existing site?",
         "Do you take on projects to modernize outdated websites?",
         "Is website renovation part of your service offerings?",
-        "Do you redesign of existing websites?",
+        "Do you redesign existing websites?",
         "Hi. Do you redesign existing websites?",
         "Hey there! Do you redesign websites?"
       ],
@@ -293,10 +300,9 @@
         "OJT?",
         "Do you have an internship?",
         "Are there any internships available?",
-        "Appreciate it,Can I work as an intern at Nexxus Labs?",
+        "Appreciate it, Can I work as an intern at Nexxus Labs?",
         "Are there any OJT opportunities at Nexxus Labs?",
         "How can I apply for an internship at Nexxus Labs?",
-        "What are the requirements for an internship at Nexxus Labs?",
         "Do you offer internships for students?",
         "Can I get an internship position at Nexxus Labs?",
         "Is Nexxus Labs hiring interns?",
@@ -304,9 +310,9 @@
         "What is the process to apply for an internship at Nexxus Labs?",
         "Do you have any openings for internships?",
         "Who do I contact for internship opportunities?",
-        "Can international students apply for internships at Nexxus Labs?"
-
-
+        "Can international students apply for internships at Nexxus Labs?",
+        "Can I apply for an OJT?",
+        "Can I apply for an Internship?"
       ],
       "responses": [
         "Yes, Nexxus Lab offers an internship, kindly send us an email to team@nexxuslab.com with your CV and endorsement letter from your school if you are interested."
@@ -324,6 +330,40 @@
       ],
       "responses": [
         "At Nexxus Lab, we don't have a specific minimum number of hours required for completing your internship. We will follow the hours required by your school to ensure you meet their criteria for the internship."
+      ]
+    },
+    {
+      "tag": "Internship_Requirements",
+      "patterns": [
+        "What are your requirements for an internship?",
+        "What documents do I have to send when applying for an OJT?",
+        "What documents do I have to send when applying for an Internship?",
+        "What are the files I need to submit to apply for an OJT?",
+        "What are the files I need to submit to apply for an Internship?",
+        "Required documents for OJT.",
+        "Required files for OJT.",
+        "Required documents for Internship.",
+        "Required files for Internship.",
+        "Do I need to submit a Resume and a cover letter?",
+        "Is the internship paid?",
+        "Will I get paid?",
+        "What are the requirements for an internship at Nexxus Labs?",
+        "Is this a paid internship?",
+        "Do you provide a paid-internship?",
+        "Do I have to sign an NDA form?",
+        "Do I have to sign a Non-Disclosure Agreement?"
+      ],
+      "responses": [
+        "Nexxus Labs requires aspiring interns to submit their CV and endorsement letter from their university. Keep in mind that this is a non-paid internship and we will require you to sign a Non-Disclosure Agreement when you’re accepted."
+      ]
+    },
+    {
+      "tag": "Internship_Details",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
       ]
     },
     {
