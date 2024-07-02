@@ -102,7 +102,7 @@
         "Bye for now",
         "I'm off",
         "I'm leaving",
-        "’Till next time",
+        "'Till next time",
         "Adios",
         "Bye-bye",
         "See ya",
@@ -120,7 +120,7 @@
         "Until later!",
         "Bon voyage!",
         "Hasta la vista!",
-        "It’s been a pleasure."
+        "It's been a pleasure."
       ],
       "responses": [
         "See you later, thanks for visiting",
@@ -135,7 +135,7 @@
         "Thank you.",
         "That's helpful.",
         "Thank's a lot!",
-        "Thasnk you.",
+        "Thanks you.",
         "Good Job!",
         "Thank you so much.",
         "Much appreciated.",
@@ -151,7 +151,7 @@
         "Thanks a bunch.",
         "Cheers.",
         "Thanks a ton.",
-        "Thanks, you’re a lifesaver.",
+        "Thanks, you're a lifesaver.",
         "Thank you kindly.",
         "I really appreciate it!",
         "Much obliged.",
@@ -159,9 +159,9 @@
         "Thanks a million!",
         "I can't thank you enough.",
         "Thanks a ton!",
-        "You’ve been a great help, thank you.",
+        "You've been a great help, thank you.",
         "Thanks for everything.",
-        "You’ve been incredibly helpful!",
+        "You've been incredibly helpful!",
         "Thanks for everything."
       ],
       "responses": [
@@ -299,10 +299,19 @@
         "Can I ask if you offer SEO services?",
         "Can I ask about your SEO services?",
         "What about SEO services?",
-        "What about SEO?"
+        "What about SEO?",
+        "Can Nexxus Lab help with SEO?",
+        "What SEO packages do you offer?",
+        "You have SEO services?",
+        "What are your SEO services?",
+        "Do you provide custom SEO solutions?",
+        "Do you provide SEO consulting?",
+        "Are you able to optimize content for SEO?",
+        "Do you help with keyword research?",
+        "Can you assist with SEO analytics?"
       ],
       "responses": [
-        "Yes, we have a team of SEO experts who can help optimize your website to improve its search engine rankings and drive more traffic to your site"
+        "Yes, we have a team of SEO experts who can help optimize your website to improve its search engine rankings and drive more traffic to your site."
       ]
     },
     {
@@ -315,7 +324,15 @@
         "Could you describe the concept of AI-driven digital marketing?",
         "I'm curious about AI in digital marketing. What does that mean?",
         "How is AI transforming digital marketing practices?",
-        "Can you tell me more about AI marketing?"
+        "Can you tell me more about AI marketing?",
+        "Are you giving services to AI marketing?",
+        "Do you provide digital marketing services?",
+        "Can you explain the benefits of AI in digital marketing?",
+        "Do you provide customized digital marketing solutions?",
+        "Do you implement AI in marketing?",
+        "Can you help with AI-driven marketing strategies?",
+        "What are the benefits of AI-powered digital marketing?",
+        "What digital marketing services do you offer?"
       ],
       "responses": [
         "Our AI-powered digital marketing services use advanced algorithms and machine learning techniques to analyze data and optimize your marketing strategies for better results and higher ROI."
@@ -336,7 +353,10 @@
         "What about mobile app?",
         "Do you offer mobile app services?",
         "Mobile application development.",
-        "Can you tell me about your mobile application development?"
+        "Can you tell me about your mobile application development?",
+        "Do you develop mobile applications?",
+        "I want to have a mobile app of my own, can you create one?",
+        "Does Nexxus Lab create mobile apps?"
       ],
       "responses": [
         "Yes, we develop mobile applications for both iOS and Android platforms, ensuring that your app reaches a wide audience."
@@ -352,8 +372,18 @@
         "Can I count on you for long-term maintenance of my website or app?",
         "Do you offer any support packages for the digital products you create?",
         "What's your policy on maintaining and supporting completed projects?",
+        "Do you cater maintenance and support for websites?",
+        "Can you support services in my website?",
         "Do you offer maintenance?",
-        "Do you offer support?"
+        "Do you offer support?",
+        "Do you provide maintenance services?",
+        "Can you keep my website up-to-date?",
+        "You have maintenance and support?",
+        "Can you do maintenance on applications?",
+        "Can you provide some help in regards to supporting a website?",
+        "Are you able to provide some maintenance?",
+        "Do you have supporting services?",
+        "Maintenance for websites?"
       ],
       "responses": [
         "Yes, we offer maintenance and support services to ensure that your website or mobile app remains up-to-date and functions smoothly."
