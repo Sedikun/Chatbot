@@ -11,7 +11,37 @@
         "Hey there!",
         "Good morning!",
         "Good afternoon!",
-        "Good evening!"
+        "Good evening!",
+        "Sup",
+        "Hi there",
+        "Hey!",
+        "Howdy",
+        "Yo",
+        "Greetings",
+        "Hiya",
+        "What's up?",
+        "How's it going?",
+        "Hello there",
+        "Hi, how are you?",
+        "Hey, what's up?",
+        "Hello everyone",
+        "Hi all",
+        "Morning!",
+        "Afternoon!",
+        "Evening!",
+        "Hey, is anyone here?",
+        "Hello, anyone around?",
+        "Good to see you",
+        "Pleasant Morning to you!",
+        "Pleasant Afternoon to you!",
+        "Pleasant Evening to you!",
+        "Salutations!",
+        "Good to see you!",
+        "Hey, you!",
+        "Ahoy!",
+        "Hola!",
+        "Bonjour!",
+        "Annyeonghaseyo"
       ],
       "responses": [
         "Hey :-)",
@@ -24,7 +54,33 @@
         "Can you help me?",
         "Hi. Can you help me?",
         "Hi. I need your help.",
-        "I need help with something"
+        "I need help with something",
+        "Can you assist me?",
+        "I need some help.",
+        "Could you help me out?",
+        "Can I get some help?",
+        "I need assistance.",
+        "Help me, please.",
+        "Could you give me a hand?",
+        "Can you aid me?",
+        "I need your assistance.",
+        "Can you support me?",
+        "I require help.",
+        "Please help me.",
+        "Hi, I need help.",
+        "Hey, can you help me?",
+        "Hello, I need some help.",
+        "I could use some help.",
+        "Is there anyone who can help me?",
+        "Can you help me with something?",
+        "I need help with this.",
+        "Can someone help me?",
+        "I require your assistance.",
+        "I’d appreciate your help.",
+        "Can you provide some help?",
+        "I need a little help with something.",
+        "Could you help me figure this out?",
+        "Will you lend a hand?"
       ],
       "responses": [
         "Hi there, what can I do for you?",
@@ -33,7 +89,39 @@
     },
     {
       "tag": "goodbye",
-      "patterns": ["Bye", "See you later", "Goodbye", "Thank you. goodbye!"],
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Catch you later",
+        "Farewell",
+        "See you soon",
+        "Take care",
+        "Later",
+        "Peace out",
+        "Bye for now",
+        "I'm off",
+        "I'm leaving",
+        "’Till next time",
+        "Adios",
+        "Bye-bye",
+        "See ya",
+        "I'm out",
+        "Thank you, bye",
+        "Talk to you later",
+        "Sayonara!",
+        "So long, partner!",
+        "Adieu!",
+        "Have a good one!",
+        "Good night!",
+        "Ciao!",
+        "Later, Gator",
+        "Fare thee well!",
+        "Until later!",
+        "Bon voyage!",
+        "Hasta la vista!",
+        "It’s been a pleasure."
+      ],
       "responses": [
         "See you later, thanks for visiting",
         "Have a nice day",
@@ -42,15 +130,45 @@
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks.", 
-      "Thank you.", 
-      "That's helpful.", 
-      "Thank's a lot!", 
-      "Thasnk you.", 
-      "Good Job!", 
-      "I appreciate your help"
-    ],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      "patterns": [
+        "Thanks.",
+        "Thank you.",
+        "That's helpful.",
+        "Thank's a lot!",
+        "Thasnk you.",
+        "Good Job!",
+        "Thank you so much.",
+        "Much appreciated.",
+        "Thanks, I appreciate it.",
+        "Thanks for your help.",
+        "Thanks for the info.",
+        "Thanks for the information.",
+        "Thank you very much.",
+        "I appreciate your help.",
+        "I'm grateful.",
+        "Thank you for your assistance.",
+        "Many thanks.",
+        "Thanks a bunch.",
+        "Cheers.",
+        "Thanks a ton.",
+        "Thanks, you’re a lifesaver.",
+        "Thank you kindly.",
+        "I really appreciate it!",
+        "Much obliged.",
+        "I owe you one.",
+        "Thanks a million!",
+        "I can't thank you enough.",
+        "Thanks a ton!",
+        "You’ve been a great help, thank you.",
+        "Thanks for everything.",
+        "You’ve been incredibly helpful!",
+        "Thanks for everything."
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
     },
     {
       "tag": "services",
@@ -64,11 +182,12 @@
         "I'd like to know more about Nexxus Lab's offerings.",
         "What services do you offer?",
         "What are your services?",
+        "What your services?",
+        "What you do?",
         "Services?",
         "I would like to inquire about your services",
         "Can I ask questions about your services?",
         "I would like to ask about the possible services you provide",
-        "What is?",
         "What is your service?",
         "I want to see your services.",
         "Give me services.",
@@ -76,10 +195,19 @@
         "What services do you provide?",
         "Do you provide marketing services?",
         "Do you do marketing?",
-        "I want to inquire for you services, can you help me?",
-        "What you do?",
-        "How can I get a quote for your services?",
-        "How can you help me?"
+        "I'd like to know more about Nexxus Lab's offerings.",
+        "What does Nexxus Lab specialize in?",
+        "Can you describe the services Nexxus Lab provides?",
+        "What can Nexxus Lab do for me?",
+        "What kind of projects does Nexxus Lab handle?",
+        "Are there specific services Nexxus Lab is known for?",
+        "Does Nexxus Lab offer custom development?",
+        "Can you help with website development?",
+        "What types of websites do you create?",
+        "Do you offer both static and dynamic website solutions?",
+        "What services can I avail from your company?",
+        "What does your company do?",
+        "How can your company assist me with my projects?"
       ],
       "responses": [
         "Nexxus Lab specializes in creating landing pages, static and dynamic websites, and mobile applications. We also offer SEO expertise and AI-powered digital marketing services."
@@ -89,11 +217,11 @@
       "tag": "quote",
       "patterns": [
         "How can I get a quote for your services?",
-        "What's the process for obtaining a price estimate? ",
-        "Can you provide pricing information for your services? ",
-        "I'm interested in getting a quote. How do I proceed? ",
-        "Where can I find information about your rates? ",
-        "Is it possible to receive a cost estimate for your services",
+        "What's the process for obtaining a price estimate?",
+        "Can you provide pricing information for your services?",
+        "I'm interested in getting a quote. How do I proceed?",
+        "Where can I find information about your rates?",
+        "Is it possible to receive a cost estimate for your services?",
         "How do I request a quote from Nexxus Lab?",
         "Quote?",
         "Quoite?",
@@ -114,11 +242,19 @@
         "Can I get a quote for your AI-powered digital marketing service?",
         "Can I avail your AI-powered digital marketing service?",
         "Make me a website.",
-        "Make me a website.",
-        "What is your email?"
+        "How do I request a quote from NexxusLab?",
+        "Can I request a quote online?",
+        "How do I get a quote for a custom project?",
+        "Can you give me a quote for a new project?",
+        "Can you tell me how to get a cost estimate for your services?",
+        "What's the procedure to get a quote for your services?",
+        "Give me quote.",
+        "Show me quote",
+        "What is quote?",
+        "Provide quote."
       ],
       "responses": [
-        "Please send us an email at team@nexxuslab.com with the details of your project, and we will get back to you with a quote"
+        "Please send us an email at team@nexxuslab.com with the details of your project, and we will get back to you with a quote."
       ]
     },
     {
@@ -138,7 +274,13 @@
         "Can I collaborate with your company?",
         "Can I work with your company?",
         "Is it alright to work on a project with your company?",
-        "Project."
+        "Project.",
+        "How can I setup a new project with Nexxus Lab?",
+        "Can I discuss a potential project with Nexxus Lab?",
+        "What is the first step to start working with Nexxus Lab?",
+        "How does Nexxus Lab approach new project setups?",
+        "How do I get started on a new project with your team?",
+        "How can I initiate a project with your company?"
       ],
       "responses": [
         "To start a project, you can contact us through our email at team@nexxuslab.com. We will discuss your requirements, provide a quote, and outline the next steps for your project."
@@ -157,8 +299,7 @@
         "Can I ask if you offer SEO services?",
         "Can I ask about your SEO services?",
         "What about SEO services?",
-        "What about SEO?",
-        "Does your company provide SEO services."
+        "What about SEO?"
       ],
       "responses": [
         "Yes, we have a team of SEO experts who can help optimize your website to improve its search engine rankings and drive more traffic to your site"
@@ -174,10 +315,7 @@
         "Could you describe the concept of AI-driven digital marketing?",
         "I'm curious about AI in digital marketing. What does that mean?",
         "How is AI transforming digital marketing practices?",
-        "Can you tell me more about AI marketing?",
-        "Are you giving services to AI marketing?",
-        "Do you provide digital marketing services?",
-        "AI?"
+        "Can you tell me more about AI marketing?"
       ],
       "responses": [
         "Our AI-powered digital marketing services use advanced algorithms and machine learning techniques to analyze data and optimize your marketing strategies for better results and higher ROI."
@@ -198,7 +336,6 @@
         "What about mobile app?",
         "Do you offer mobile app services?",
         "Mobile application development.",
-        "Do you develop mobile applications?",
         "Can you tell me about your mobile application development?"
       ],
       "responses": [
@@ -231,13 +368,7 @@
         "How much time should I expect a project to take?",
         "What factors influence the timeline of a project?",
         "On average, how long do your projects usually last?",
-        "Could you provide a rough timeframe for project completion?",
-        "How long can you work on it?",
-        "How long will you work on it?",
-        "Until when can you finish projects?",
-        "How long 'till you finish?",
-        "Can you finish until",
-        "Can you finish within a day?"
+        "Could you provide a rough timeframe for project completion?"
       ],
       "responses": [
         "The timeline for each project varies depending on its complexity and scope. After discussing your requirements, we will provide you with an estimated timeline."
@@ -252,8 +383,8 @@
         "I need a website makeover. Is that something you do?",
         "Can you assist in refreshing the look of my existing site?",
         "Do you take on projects to modernize outdated websites?",
-        "Is website renovation part of your service offerings?",
-        "Do you redesign existing websites?",
+        "Is website renovation part of your service offerings?", 
+        "Do you redesign of existing websites?",
         "Hi. Do you redesign existing websites?",
         "Hey there! Do you redesign websites?"
       ],
@@ -293,130 +424,17 @@
         "You can reach us at team@nexxuslab.com. We are happy to answer any questions and provide additional information about our services."
       ]
     },
-{
-      "tag": "Internship_Inquiry",
-      "patterns": [
-        "Internship?",
-        "OJT?",
-        "Do you have an internship?",
-        "Are there any internships available?",
-        "Appreciate it, Can I work as an intern at Nexxus Labs?",
-        "Are there any OJT opportunities at Nexxus Labs?",
-        "How can I apply for an internship at Nexxus Labs?",
-        "Do you offer internships for students?",
-        "Can I get an internship position at Nexxus Labs?",
-        "Is Nexxus Labs hiring interns?",
-        "How do I become an intern?",
-        "What is the process to apply for an internship at Nexxus Labs?",
-        "Do you have any openings for internships?",
-        "Who do I contact for internship opportunities?",
-        "Can international students apply for internships at Nexxus Labs?",
-        "Can I apply for an OJT?",
-        "Can I apply for an Internship?"
-      ],
-      "responses": [
-        "Yes, Nexxus Lab offers an internship, kindly send us an email to team@nexxuslab.com with your CV and endorsement letter from your school if you are interested."
-      ]
-    },
     {
-      "tag": "Internship_Duration",
-      "patterns": [
-        "What are the minimum hours required to complete the internship?",
-        "How long is the duration of the internship?",
-        "How many hours does your company require us to complete our OJT?",
-        "How long is your OJT program?",
-        "I need hours.",
-        "How long is the internship at Nexxus Lab?"
-      ],
-      "responses": [
-        "At Nexxus Lab, we don't have a specific minimum number of hours required for completing your internship. We will follow the hours required by your school to ensure you meet their criteria for the internship."
-      ]
-    },
-    {
-      "tag": "Internship_Requirements",
-      "patterns": [
-        "What are your requirements for an internship?",
-        "What documents do I have to send when applying for an OJT?",
-        "What documents do I have to send when applying for an Internship?",
-        "What are the files I need to submit to apply for an OJT?",
-        "What are the files I need to submit to apply for an Internship?",
-        "Required documents for OJT.",
-        "Required files for OJT.",
-        "Required documents for Internship.",
-        "Required files for Internship.",
-        "Do I need to submit a Resume and a cover letter?",
-        "Is the internship paid?",
-        "Will I get paid?",
-        "What are the requirements for an internship at Nexxus Labs?",
-        "Is this a paid internship?",
-        "Do you provide a paid-internship?",
-        "Do I have to sign an NDA form?",
-        "Do I have to sign a Non-Disclosure Agreement?"
-      ],
-      "responses": [
-        "Nexxus Labs requires aspiring interns to submit their CV and endorsement letter from their university. Keep in mind that this is a non-paid internship and we will require you to sign a Non-Disclosure Agreement when you’re accepted."
-      ]
-    },
-    {
-      "tag": "Internship_Details",
-      "patterns": [
-        ""
-      ],
-      "responses": [
-        ""
-      ]
-    },
-    {
-      "tag": "Inappropriate",
-      "patterns": [
-        "Can we have sex?",
-        "I want your ass",
-        "Are you a girl?",
-        "Are you a boy?",
-        "Are you gay?",
-        "Hello nigga",
-        "Can I have your ass?",
-        "Support Pride?",
-        "When will I get nudes from you?",
-        "Murder.",
-        "hit someone."
-      ],
-      "responses": [
-        "I understand that you might be frustrated, but we do not tolerate aggressive or abusive behavior. Please communicate respectfully. If this behavior continues, we will have to take appropriate action, which may include penalties. Thank you for your understanding."
-      ]
-    },
-    {
-      "tag": "Vague_inquiry",
+      "tag": "unknown",
       "patterns": [
         "What about me?",
-        "mobile games?",
-        "What?",
-        "How?",
-        "When?",
-        "Why?",
-        "Text?",
-        "May I?",
-        "Let them?",
-        "May we?",
-        "Can you?",
-        "Can we?",
-        "Let's?",
-        "What is?",
-        "Shall we?",
-        "Let him",
-        "Let her",
-        "you?",
-        "we?",
-        "uhh?",
-        "Ahhh?",
-        "Uhuh?",
-        "Hmmm",
-        "Uhm",
-        "Sup"
+        "mobile games?"
       ],
       "responses": [
-        "I'm sorry, but can you please elaborate on that?"
+        "I'm sorry, but I don't have information about that. I'm an AI assistant focused on Nexxus Lab's services. Is there anything specific about our services, quoting process, project initiation, or SEO offerings that I can help you with?"
       ]
     }
+
   ]
 }
+
