@@ -398,7 +398,26 @@
         "How much time should I expect a project to take?",
         "What factors influence the timeline of a project?",
         "On average, how long do your projects usually last?",
-        "Could you provide a rough timeframe for project completion?"
+        "Could you provide a rough timeframe for project completion?",
+        "How long can you work on it?",
+        "How long will you work on it?",
+        "Until when can you finish projects?",
+        "How long 'till you finish?",
+        "Can you finish until",
+        "Can you finish within a day?",
+        "What is the expected duration for project completion?",
+        "How soon can you complete a project?",
+        "How long does a project take to finish?",
+        "What's the average time to complete a project?",
+        "Can you tell me the duration for completing a project?",
+        "How long does it take for you to complete projects?",
+        "What is the usual timeframe for project completion?",
+        "How long until a project is completed?",
+        "When can I expect the project to be finished?",
+        "How long until projects finish?",
+        "How much time do you need to finish a project?",
+        "What's the timeline for projects?",
+        "How quickly can you finish a project?"
       ],
       "responses": [
         "The timeline for each project varies depending on its complexity and scope. After discussing your requirements, we will provide you with an estimated timeline."
@@ -413,10 +432,18 @@
         "I need a website makeover. Is that something you do?",
         "Can you assist in refreshing the look of my existing site?",
         "Do you take on projects to modernize outdated websites?",
-        "Is website renovation part of your service offerings?", 
-        "Do you redesign of existing websites?",
+        "Is website renovation part of your service offerings?",
+        "Do you redesign existing websites?",
         "Hi. Do you redesign existing websites?",
-        "Hey there! Do you redesign websites?"
+        "Hey there! Do you redesign websites?",
+        "Hey there! Do you redesign websites?",
+        "Can you make my website beautiful?",
+        "Can you give my current website a new look?",
+        "Is website redesigning available?",
+        "Do you take on projects for website design improvements?",
+        "Can you help upgrade my website's design?",
+        "Can you recreate my website with a new design?",
+        "Is it possible to update the design of my website?"
       ],
       "responses": [
         "Absolutely! We can redesign your existing website to give it a fresh, modern look and improve its functionality."
@@ -432,7 +459,16 @@
         "Are there specific industries where you have the most experience?",
         "What kind of clients do you usually work with?",
         "Does Nexxus Lab cater to certain business sectors more than others?",
-        "What do you specialize in?"
+        "What do you specialize in?",
+        "Which industries does Nexxus Lab have expertise in?",
+        "What business sectors do you focus on?",
+        "Can you provide a list of industries Nexxus Lab serves?",
+        "What fields do you primarily operate in?",
+        "Are there any industries you don’t work with?",
+        "What sectors do you have the most projects in?",
+        "In which fields does Nexxus Lab excel?",
+        "What are your primary markets?",
+        "What areas of business do you cover?"
       ],
       "responses": [
         "We work with clients from various industries, including e-commerce, healthcare, education, finance, and more. Our team is equipped to handle diverse projects tailored to your specific industry needs."
@@ -448,10 +484,178 @@
         "Where can I find Nexxus Lab's contact information?",
         "Is there a preferred method for contacting Nexxus Lab?",
         "Could you tell me how to connect with someone at Nexxus Lab?",
-        "How do I contact your company?"
+        "How do I contact your company?",
+        "Who do I contact for internship opportunities?",
+        "Could you tell me how to connect with someone at Nexxus Lab?",
+        "What is your email?",
+        "What is the email address to contact Nexxus Lab?",
+        "How can I send a message to Nexxus Lab?",
+        "Who should I reach out to for customer support?",
+        "Can you tell me how to get in touch with your customer service team?",
+        "Where can I send my inquiries to Nexxus Lab?",
+        "How do I communicate with Nexxus Lab's support team?",
+        "Could you provide the contact number for Nexxus Lab?",
+        "What is the best way to contact Nexxus Lab's support?",
+        "How can I get assistance from Nexxus Lab?",
+        "How do I reach Nexxus Lab for partnership opportunities?",
+        "Who do I email for business inquiries with Nexxus Lab?"
       ],
       "responses": [
         "You can reach us at team@nexxuslab.com. We are happy to answer any questions and provide additional information about our services."
+      ]
+    },
+    {
+      "tag": "Internship_Inquiry",
+      "patterns": [
+        "Internship?",
+        "OJT?",
+        "Do you have an internship?",
+        "Are there any internships available?",
+        "Appreciate it, Can I work as an intern at Nexxus Labs?",
+        "Are there any OJT opportunities at Nexxus Labs?",
+        "How can I apply for an internship at Nexxus Labs?",
+        "Do you offer internships for students?",
+        "Can I get an internship position at Nexxus Labs?",
+        "Is Nexxus Labs hiring interns?",
+        "How do I become an intern?",
+        "What is the process to apply for an internship at Nexxus Labs?",
+        "Do you have any openings for internships?",
+        "Who do I contact for internship opportunities?",
+        "Can international students apply for internships at Nexxus Labs?",
+        "Can I apply for an OJT?",
+        "Can I apply for an Internship?",
+        "Do you accept On The Job Training Students?"
+      ],
+      "responses": [
+        "Yes, Nexxus Lab offers internships, kindly send us an email to team@nexxuslab.com with your CV and endorsement letter from your school if you are interested."
+      ]
+    },
+    {
+      "tag": "Internship_Duration",
+      "patterns": [
+        "What are the minimum hours required to complete the internship?",
+        "How long is the duration of the internship?",
+        "How many hours does your company require us to complete our OJT?",
+        "How long is your OJT program?",
+        "How many hours do I need to complete my internship with you?",
+        "How long is the internship at Nexxus Lab?",
+        "How long do I need to work for you to complete my OJT?",
+        "How long do I need to work for you to complete my internship?",
+        "May I ask how long is the work period for OJT?",
+        "Is it possible to have OJT within the required hours of my University?",
+        "What is the required hours for the internship?",
+        "What is the minimum amount of hours for the internship?"
+
+      ],
+      "responses": [
+        "At Nexxus Lab, we don't have a specific minimum number of hours required for completing your internship. We will follow the hours required by your school to ensure you meet their criteria for the internship."
+      ]
+    },
+    {
+      "tag": "Internship_Requirements",
+      "patterns": [
+        "What are your requirements for an internship?",
+        "What documents do I have to send when applying for an OJT?",
+        "What documents do I have to send when applying for an Internship?",
+        "What are the files I need to submit to apply for an OJT?",
+        "What are the files I need to submit to apply for an Internship?",
+        "Required documents for OJT.",
+        "Required files for OJT.",
+        "Required documents for Internship.",
+        "Required files for Internship.",
+        "Do I need to submit a Resume and a cover letter?",
+        "Is the internship paid?",
+        "Will I get paid?",
+        "What are the requirements for an internship at Nexxus Labs?",
+        "Is this a paid internship?",
+        "Do you provide a paid-internship?",
+        "Do I have to sign an NDA form?",
+        "Do I have to sign a Non-Disclosure Agreement?",
+        "How do I apply for an OJT?"
+      ],
+      "responses": [
+        "Nexxus Labs requires aspiring interns to submit their CV and endorsement letter from their university. Keep in mind that this is a non-paid internship and we will require you to sign a Non-Disclosure Agreement when you're accepted."
+      ]
+    },
+    {
+      "tag": "Internship_Details",
+      "patterns": [
+        "What are the tasks if I were to apply for an internship at your company?",
+        "What responsibilities will I be doing for OJT?",
+        "What are the positions available for internship?",
+        "What are the roles available for internship?",
+        "What kind of tasks should I expect when I apply for an internship?",
+        "Are there any training programs for interns?",
+        "What can I expect to learn during my internship?",
+        "Can you give an overview of the intern responsibilities?",
+        "What kind of assignments do interns receive?",
+        "What specific responsibilities are assigned to interns?",
+        "What kind of projects will interns be working on?",
+        "What type of work will I be involved in as an intern?",
+        "Can you outline the tasks for an internship role?",
+        "Can you tell me what interns do in your company?",
+        "What is the workload for interns?",
+        "What roles should I keep in mind if I plan to be an intern?",
+        "Tell me role expectations for the internship.",
+        "List of positions for the internship",
+        "List of roles for the internship."
+      ],
+      "responses": [
+        "Here at Nexxus Lab, we offer roles in AI Digital Marketing, Front End Development, UI Design, and Project Management. Interns will gain hands-on experience in their chosen field, working on real projects and collaborating with our dynamic team."
+      ]
+    },
+    {
+      "tag": "Inappropriate",
+      "patterns": [
+        "Can we have sex?",
+        "I want your ass",
+        "Are you a girl?",
+        "Are you a boy?",
+        "Are you gay?",
+        "Hello nigga",
+        "Can I have your ass?",
+        "Support Pride?",
+        "When will I get nudes from you?",
+        "Murder.",
+        "hit someone."
+      ],
+      "responses": [
+        "I understand that you might be frustrated, but we do not tolerate aggressive or abusive behavior. Please communicate respectfully. If this behavior continues, we will no longer entertain any more questions. Thank you for your understanding."
+      ]
+    },
+    {
+      "tag": "Vague_inquiry",
+      "patterns": [
+        "What about me?",
+        "mobile games?",
+        "What?",
+        "How?",
+        "When?",
+        "Why?",
+        "Text?",
+        "May I?",
+        "Let them?",
+        "May we?",
+        "Can you?",
+        "Can we?",
+        "Let's?",
+        "What is?",
+        "Shall we?",
+        "Let him",
+        "Let her",
+        "you?",
+        "we?",
+        "uhh?",
+        "Ahhh?",
+        "Uhuh?",
+        "Hmmm",
+        "Uhm",
+        "Me?",
+        "What is?",
+        "AI?"
+      ],
+      "responses": [
+        "I'm sorry, but can you please elaborate on that?"
       ]
     },
     {
