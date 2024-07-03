@@ -7,7 +7,7 @@ This gives 2 deployment options:
 - Serve only the Flask prediction API. The used html and javascript files can be included in any Frontend application (with only a slight modification) and can run completely separate from the Flask App then.
 
 ## Initial Setup:
-This repo currently contains the starter files.
+This repo currently contains the starter file.
 
 Clone repo and create a virtual environment
 ```
@@ -40,7 +40,7 @@ $ (venv) python chat.py
 
 Now for deployment follow my tutorial to implement `app.py` and `app.js`.
 
-## Watch the Tutorial
+## Watch the Tutorial PLEASE -->
 [![Alt text](https://img.youtube.com/vi/a37BL0stIuM/hqdefault.jpg)](https://youtu.be/a37BL0stIuM)  
 [https://youtu.be/a37BL0stIuM](https://youtu.be/a37BL0stIuM)
 
