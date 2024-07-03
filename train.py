@@ -77,9 +77,9 @@ class ChatDataset(Dataset):
 
 dataset = ChatDataset()
 train_loader = DataLoader(dataset=dataset,
-                          batch_size=batch_size,
-                          shuffle=True,
-                          num_workers=0)
+    batch_size=batch_size,
+    shuffle=True,
+    num_workers=0)
 
 device = torch.device('cpu')
 
