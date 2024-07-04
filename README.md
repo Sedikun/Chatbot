@@ -40,7 +40,7 @@ $ (venv) python chat.py
 
 Now for deployment follow my tutorial to implement `app.py` and `app.js`.
 
-## Watch the Tutorial
+## Watch the Tutorial PLEASE -->
 [![Alt text](https://img.youtube.com/vi/a37BL0stIuM/hqdefault.jpg)](https://youtu.be/a37BL0stIuM)  
 [https://youtu.be/a37BL0stIuM](https://youtu.be/a37BL0stIuM)
 
