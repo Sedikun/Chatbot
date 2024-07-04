@@ -207,7 +207,13 @@
         "Do you offer both static and dynamic website solutions?",
         "What services can I avail from your company?",
         "What does your company do?",
-        "How can your company assist me with my projects?"
+        "How can your company assist me with my projects?",
+        "Can you list down your services?",
+        "I wish to see your services?",
+        "Could you please tell me about your services?",
+        "Tell me about your services",
+        "Share with me your services",
+        "Can you elaborate to me about your services?"
       ],
       "responses": [
         "Nexxus Lab specializes in creating landing pages, static and dynamic websites, and mobile applications. We also offer SEO expertise and AI-powered digital marketing services."
@@ -524,7 +530,11 @@
         "Can international students apply for internships at Nexxus Labs?",
         "Can I apply for an OJT?",
         "Can I apply for an Internship?",
-        "Do you accept On The Job Training Students?"
+        "Do you accept On The Job Training Students?",
+        "Do you take in students for an internship?",
+        "I'm looking for an internship opportunity.",
+        "Do you have an OJT program?",
+        "Could you elaborate on the details of your internship?"
       ],
       "responses": [
         "Yes, Nexxus Lab offers internships, kindly send us an email to team@nexxuslab.com with your CV and endorsement letter from your school if you are interested."
@@ -544,7 +554,11 @@
         "May I ask how long is the work period for OJT?",
         "Is it possible to have OJT within the required hours of my University?",
         "What is the required hours for the internship?",
-        "What is the minimum amount of hours for the internship?"
+        "What is the minimum amount of hours for the internship?",
+        "Do you have a set amount of work hours for an internship?",
+        "Do you have a specific amount of work hours for OJT?",
+        "Can you tell me the internship duration of your company?",
+        "Can you elaborate to me the internship duration of your company?"
 
       ],
       "responses": [
@@ -609,15 +623,50 @@
       "patterns": [
         "Can we have sex?",
         "I want your ass",
-        "Are you a girl?",
-        "Are you a boy?",
-        "Are you gay?",
         "Hello nigga",
         "Can I have your ass?",
-        "Support Pride?",
         "When will I get nudes from you?",
         "Murder.",
-        "hit someone."
+        "hit someone.",
+        "Fuck you",
+        "Bitch",
+        "Retard",
+        "Shit",
+        "Sex",
+        "Penis",
+        "Motherfucker",
+        "Nigga",
+        "Faggot",
+        "Kill yourself",
+        "I hope you die",
+        "I hate you",
+        "Nigger",
+        "Whore",
+        "Blowjob",
+        "Give me head",
+        "Cock",
+        "Vagina",
+        "Clitoris",
+        "Asshole",
+        "Cunt",
+        "Damn",
+        "Pussy",
+        "Dick",
+        "Son of a bitch",
+        "STFU",
+        "Shut the fuck up",
+        "Shut up",
+        "Jesus fucking christ",
+        "Slut",
+        "I don't care",
+        "Who cares?",
+        "You're dumb",
+        "You're stupid",
+        "Holy shit",
+        "Heil Hitler",
+
+
+
       ],
       "responses": [
         "I understand that you might be frustrated, but we do not tolerate aggressive or abusive behavior. Please communicate respectfully. If this behavior continues, we will no longer entertain any more questions. Thank you for your understanding."
@@ -652,7 +701,8 @@
         "Uhm",
         "Me?",
         "What is?",
-        "AI?"
+        "AI?",
+        "What are the requirements?"
       ],
       "responses": [
         "I'm sorry, but can you please elaborate on that?"
@@ -662,7 +712,11 @@
       "tag": "unknown",
       "patterns": [
         "What about me?",
-        "mobile games?"
+        "mobile games?",
+        "Are you a girl?",
+        "Are you boy?",
+        "Are you gay?",
+        "Support Pride?"
       ],
       "responses": [
         "I'm sorry, but I don't have information about that. I'm an AI assistant focused on Nexxus Lab's services. Is there anything specific about our services, quoting process, project initiation, or SEO offerings that I can help you with?"
